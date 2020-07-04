@@ -1,14 +1,12 @@
 # Degree
-<<<<<<< add-education
+
 - degree: Full Stack Webdeveloper Nanodegree  
   uni: Udacity
   year: June, 2014 &mdash; January, 2015
-  # awards:
-  # summary:
-  =======
-- degree: Frontend Developer
-  uni: Coursera
-  year: September, 2015 &mdash; Jule, 2017
-  # awards:
-  # summary:
-  >>>>>>> master
+  awards: Most Dedicated Student per Optional Activities Completed
+  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+   
+
+  
+
+
